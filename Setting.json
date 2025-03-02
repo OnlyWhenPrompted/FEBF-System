@@ -1,0 +1,19 @@
+{
+    "forensic_tracking": {
+        "enable_event_fingerprinting": true,
+        "adaptive_false_flag_prevention": true,
+        "real_time_monitoring": true
+    },
+    "ai_thresholds": {
+        "suspicious_behavior_score": 85,
+        "hash_similarity_threshold": 92
+    },
+    "law_enforcement": {
+        "ncmec_integration": true,
+        "interpol_watchlist_sync": true,
+        "arvada_pd_case_feed": true
+    },
+    "server": {
+        "host": "0.0.0.0",
+        "port": 5000
+    }
